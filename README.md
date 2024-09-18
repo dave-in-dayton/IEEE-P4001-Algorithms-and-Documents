@@ -1,7 +1,7 @@
 Supplemental code and documents for IEEE P4001 research publication "Selection of robust metrics for the
 position and width of hyperspectral response functions via a simulation approach".
 
-August 1, 2024
+September 18, 2024
 
 Dayton, OH
 
